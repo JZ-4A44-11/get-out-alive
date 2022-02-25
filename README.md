@@ -11,7 +11,7 @@ Oh, run for your life
 ## Installation
 
 ```bash
-$ npm install
+$ pnpm install
 ```
 
 ## Running the app
